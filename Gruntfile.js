@@ -12,11 +12,6 @@ module.exports = function (grunt) {
     // Load grunt tasks automatically, when needed
     require('jit-grunt')(grunt, {
         express: 'grunt-express-server',
-        useminPrepare: 'grunt-usemin',
-        ngtemplates: 'grunt-angular-templates',
-        cdnify: 'grunt-google-cdn',
-        protractor: 'grunt-protractor-runner',
-        injector: 'grunt-asset-injector',
         buildcontrol: 'grunt-build-control'
     });
 
