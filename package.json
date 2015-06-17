@@ -1,6 +1,6 @@
 {
-    "name": "test-api",
-    "version": "0.0.0",
+    "name": "leis-api",
+    "version": "0.0.1",
     "main": "server/app.js",
     "dependencies": {
         "body-parser": "^1.13.1",
