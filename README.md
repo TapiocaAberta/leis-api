@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/transparenciasjc/leis-api.svg)](https://travis-ci.org/transparenciasjc/leis-api)
 [![Coverage Status](https://coveralls.io/repos/transparenciasjc/leis-api/badge.svg)](https://coveralls.io/r/transparenciasjc/leis-api)
-[![bitHound Score](https://www.bithound.io/github/transparenciasjc/leis-api/badges/score.svg)](https://www.bithound.io/github/transparenciasjc/leis-api)
+[![bitHound Score](https://www.bithound.io/github/transparenciasjc/leis-api/badges/score.svg?)](https://www.bithound.io/github/transparenciasjc/leis-api/master)
 [![Dependency Status](https://david-dm.org/transparenciasjc/leis-api.svg "Dependencies Checked & Updated Regularly (Security is Important!)")](https://david-dm.org/transparenciasjc/leis-api)
 
 
